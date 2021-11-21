@@ -9,6 +9,17 @@ Here's the list of full functionality required for the assignment:
 
 - Gist contents: When clicking one of the Gists, display the content of the file
 
+# Run the application
+Clone the application and run the following command to install all the dependencies
+```
+$ npm install
+```
+After this step, you cand run the application using the bellow command
+``` 
+$ yarn start
+or
+$ npm start
+```
 # Details about implementation
 - I used React to implement this assessment. 
 - I used both class components and functional components.
