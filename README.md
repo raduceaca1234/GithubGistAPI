@@ -10,10 +10,12 @@ Here's the list of full functionality required for the assignment:
 - Gist contents: When clicking one of the Gists, display the content of the file
 
 # Details about implementation
-I used React to implement this assessment. 
-I used both class components and functional components.
-I also used bootstrap for nice UI elements and redux in order to store the gists.
+- I used React to implement this assessment. 
+- I used both class components and functional components.
+- I also used bootstrap for nice UI elements and redux in order to store the gists.
 
 # Further implementations
-A better and more userfriendly UI.
+- A better and more userfriendly UI.
+- To use axios to get the data. For the moment I used the classical fetch.
+- To use more functional components, because functional components are much more easier to read and you end up with less code. It will get easier to separate container and presentational components because you need to think more about your component’s state
 
