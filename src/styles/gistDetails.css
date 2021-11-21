@@ -1,0 +1,14 @@
+.details-box {
+    background-color: #fff;
+    margin-top: 50px;
+    border: 1px solid #dddddd;
+    padding: 20px;
+}
+.forks-box, .files-box {
+    margin-top: 10px;
+}
+
+results-box-loader{
+    margin-top: 100px;
+    margin-left: 500px;
+}

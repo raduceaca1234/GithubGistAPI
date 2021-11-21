@@ -1,0 +1,14 @@
+.badge {
+    background-color: #E69C37; 
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.badge-list {
+	margin-bottom: 0px;
+}

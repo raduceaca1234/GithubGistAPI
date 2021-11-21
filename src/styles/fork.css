@@ -1,0 +1,9 @@
+.profile-inline {
+	display: flex;
+	list-style: none;
+}
+
+.profile-inline li {
+  flex: 1;
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+.results-box {
+    margin-top: 10px;
+    background-color: #000;
+    border-radius: 10px;
+}
+
+.results_content {
+    margin: 20px;
+}
+
+.search-results {
+    padding: 10px;
+}
+
+.results-box-loader{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+
